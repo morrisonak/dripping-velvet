@@ -30,7 +30,7 @@ export default function Navbar() {
                         className="w-8"
                       />
                     </span>
-                    <span>Nextly</span>
+                    <span>Dripping Velvet</span>
                   </a>
                 </Link>
 
