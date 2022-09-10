@@ -67,7 +67,7 @@ export default function Home() {
         conversion rate as well as support or chat requests.
       </SectionTitle>
      
-      <PopupWidget />
+   
     </>
   );
 }
