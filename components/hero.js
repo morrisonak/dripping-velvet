@@ -12,9 +12,7 @@ export default function Hero() {
              Welcome to Dripping Velvet
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi leo dolor, dignissim a ligula at, feugiat ultrices leo. Pellentesque finibus venenatis aliquet. Vestibulum scelerisque leo quis velit viverra, sit amet aliquam lorem bibendum. Nullam ac mattis enim.
             </p>
 
             
