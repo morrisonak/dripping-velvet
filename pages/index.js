@@ -66,9 +66,7 @@ export default function Home() {
         Answer your customers possible questions here, it will increase the
         conversion rate as well as support or chat requests.
       </SectionTitle>
-      <Faq />
-      <Cta />
-      <Footer />
+     
       <PopupWidget />
     </>
   );
